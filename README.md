@@ -1,0 +1,2 @@
+# EZInventory
+Easy Inventory System
